@@ -49,4 +49,5 @@ Il file README.MD - come gli altri file di testo - sono in formato *Markdown*: c
 Personalmente utilizzare il Markdonw per scrivere un testo è una cosa che adoro perché ti permette di creare testi velocemente, puliti e chiari. [Sul mio blog](https://marcogovoni.it) - ad esempio - tutti gli articoli sono scritti in Markdown.
 
 ## Ed ora?
-Se ti sei iscritto ora a GitHub, inizia ad esplorare: usa il campo ricerca per trovare qualcosa che ti interessi, leggi, approfondisci e.... seguimi :innocent: 
+Se ti sei iscritto ora a GitHub, inizia ad esplorare: usa il campo ricerca per trovare qualcosa che ti interessi, leggi, approfondisci e.... seguimi :innocent:
+Scoprirai che su GitHub puoi trovare non solo *programmatori* ma anche molti progetti interessanti: dalla fotografia, alla meccanica, passando per la cucina (ci sono ricette da far venire appetito a qualsiasi ora!)
