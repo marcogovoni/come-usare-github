@@ -33,3 +33,10 @@ Come tutti i social network che si rispettino, anche su GitHub puoi "seguire" gl
 Un altra azione importante è la *star* che puoi applicare sui vari *Repository*: in sostanza una volta che ha posto una star su un repository, lo ritroverai tra i "preferiti" sul tuo profilo, per poterlo così raggiungere più facilmente.
 
 Per rimanere aggiornati sugli sviluppi di un Repositori, c'è anche l'opzione **Watch** che in pratica attiva le novifiche.
+
+> fai una prova: in alto a destra, prova a selezionare *watch* o *star* per rimanere aggiornato su questo Repository!
+
+## Cos'è il Fork??
+Semplificando al massimo la questione, quando un utente effettua un *Fork di un Repository* lo copia sul proprio profilo per poi modificarlo. Per quale motivo? Beh, possono essere molteplici. Poniamo che vogliate creare una "Guida per GitHub" e vi piace questo documento che ho readatto, ma vogliare aggiungere e modificarne alcune parti. 
+
+Una delle possibilità è "copiare" questo documento (Repository) con un Fork sul vostro profilo per poi aggiungere quello che volete. In questo modo, il mio documento rimane intatto e le vostre aggiunte/modifiche saranno visibili ai vostri "follower". 
