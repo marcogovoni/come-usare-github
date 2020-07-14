@@ -40,3 +40,13 @@ Per rimanere aggiornati sugli sviluppi di un Repositori, c'è anche l'opzione **
 Semplificando al massimo la questione, quando un utente effettua un *Fork di un Repository* lo copia sul proprio profilo per poi modificarlo. Per quale motivo? Beh, possono essere molteplici. Poniamo che vogliate creare una "Guida per GitHub" e vi piace questo documento che ho readatto, ma vogliare aggiungere e modificarne alcune parti. 
 
 Una delle possibilità è "copiare" questo documento (Repository) con un Fork sul vostro profilo per poi aggiungere quello che volete. In questo modo, il mio documento rimane intatto e le vostre aggiunte/modifiche saranno visibili ai vostri "follower". 
+
+## Come scrivere un documento su GitHub?
+I progetti più semplici - ma per questo non banali - possono essere formati da un solo documento di testo, come ad esempio questo Repository. Di norma GitHub - una volta che si apre un Repository ci chiede di creare automaticamente il file README.MD (quello che state leggendo) che, per convenzione, non è altro che il primo file che si visualizza quando si accede ad un Repository.
+
+Il file README.MD - come gli altri file di testo - sono in formato *Markdown*: cosa significa? Nulla di particolarmente insidioso, anzi. E' un formato di testo "semplificato" che permette di scrivere utilizzando determinate regole. Ha il vantaggio di essere molto "leggero" e "trasportabile" tra vari sistemi operativi.
+
+Personalmente utilizzare il Markdonw per scrivere un testo è una cosa che adoro perché ti permette di creare testi velocemente, puliti e chiari. [Sul mio blog](https://marcogovoni.it) - ad esempio - tutti gli articoli sono scritti in Markdown.
+
+## Ed ora?
+Se ti sei iscritto ora a GitHub, inizia ad esplorare: usa il campo ricerca per trovare qualcosa che ti interessi, leggi, approfondisci e.... seguimi :innocent: 
