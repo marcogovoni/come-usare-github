@@ -1,4 +1,4 @@
-# Come usare GitHub anche se non sei un programmatore!
+# Come (e perché!) usare GitHub anche se non sei un programmatore.
 Nuovo su GitHub? Anche io :wink:
 Bene, ecco perché questo social network può essere una svolta (per lo meno per me lo è!)
 
