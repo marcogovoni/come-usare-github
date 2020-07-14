@@ -23,4 +23,13 @@ Come dicevo prima, non aspettarti che qualcuno condivida le foto delle proprie v
 Sostanzialmente sono 3 gli *elementi principali* di GitHub:
 * I **Repository** sono un contenitore, all'interno del quale poter creare file, documenti, cartelle, sottocartelle, etc. Quello che state leggendo, ad esempio, non è altro che un file (di nome README) all'interno derl repository *come-usare-github*
 * **Issue**: questo è uno degli aspetti principali della *collaborazione* su GitHub: in questa sezione l'autore del documento può inserire dei "commenti" relativi ai vari step del progetto (repository), **oppure gli altri utenti possono suggerire delle modifiche** Vuoi suggerire qualcosa? Clicca su *Issue* scrivi un titolo e lascia un commento. Il gioco è fatto :-)
-* **I Branch e le Pull Request** Qui la cosa cosa è leggermente più complicata ma non troppo. Poniamo che tu voglia suggerimi una modifica a questo testo. I *Branch* puoi paragonarli alle "versioni dei file". Di conseguenza per suggerire una modifica, devi prima creare un nuovo Branch, ovvero una copia del documento, sulla quale effettuare le tue modifiche (questo indipendendemente che si tratti di codice software o un testo come questo o un ebook di ricette di cucina!). 
+* **I Branch e le Pull Request** Qui la cosa cosa è leggermente più complicata ma non troppo. Poniamo che tu voglia suggerimi una modifica a questo testo. I *Branch* puoi paragonarli alle "versioni dei file". Di conseguenza, per suggerire una modifica, devi prima creare un nuovo Branch, ovvero una copia del documento, sulla quale effettuare le tue modifiche (questo indipendendemente che si tratti di codice software o un testo come questo o un ebook di ricette di cucina!).
+In questo modo potrai modificare a piacere un file per sottoporlo all'autore tramite una *Pull Request*: in questo modo chi ha creato il file (ovvero il Branch "master") potrà vedere le modifiche proposte, confrontare i due "file" (ovvero i due Branch) e decidere se accettarle o meno, creado così un nuovo file "master".
+
+Se ci pensiamo bene, un sistema come questo è veramente potente sotto il profilo della collaborazione perché permette di creare documenti (o software...) a più mani e allo stesso tempo di tenere traccia di tutto. 
+
+## Gli "amici" su GitHub
+Come tutti i social network che si rispettino, anche su GitHub puoi "seguire" gli utenti. Basta cliccare il tasto **Follow** e gli aggiornamenti relativi alle attività di quell'utente ti compariranno nella tua "home page" o "timeline" per dirla alla Facebook
+Un altra azione importante è la *star* che puoi applicare sui vari *Repository*: in sostanza una volta che ha posto una star su un repository, lo ritroverai tra i "preferiti" sul tuo profilo, per poterlo così raggiungere più facilmente.
+
+Per rimanere aggiornati sugli sviluppi di un Repositori, c'è anche l'opzione **Watch** che in pratica attiva le novifiche.
