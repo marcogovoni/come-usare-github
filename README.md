@@ -1,6 +1,8 @@
 # Come (e perché!) usare GitHub anche se non sei un programmatore.
 Nuovo su GitHub? Anche io :wink:
-Bene, ecco perché questo social network può essere una svolta (per lo meno per me lo è!)
+Bene, ecco perché questo social network può essere una svolta (per lo meno per me lo è!).
+
+PS: i *puristi* di GitHub o comunque chi lo usa per professione, proabilmente innoridiranno: chiedo loro scusa anticipatamente per le imprecisioni e le semplificazioni, ma l'obiettivo è quello di spiegarlo ai "non addetti ai lavori". E comunque, per le modifiche, sono ben accette *Issue* e *Pull request* :simple_smile:
 
 ## Cos'è GitHub?
 E' un Social Network. Come Facebook. Instagram. LinkedIn. Tik Tok. E come tutti i social network che si rispettano ha una sua caratteristica distintiva. GitHub si basa sul *controllo di versione*. Che roba è?
@@ -16,3 +18,8 @@ Esattamente come fai con gli altri social network. Iscriviti, crea un profilo, s
 Puoi poi iniziare a cercare qualcosa, esattamente come fai con gli altri social network. 
 
 Come dicevo prima, non aspettarti che qualcuno condivida le foto delle proprie vacanze o dell'ultimo party con gli amici: su GitHub si condividono progetti, documenti, soprattutto "codice" e software (nel senso appunto del codice sorgente).
+
+## Gli elementi principali di GitHub
+Sostanzialmente sono 3 gli *elementi principali* di GitHub:
+* I **Repository** sono un contenitore, all'interno del quale poter creare file, documenti, cartelle, sottocartelle, etc. Quello che state leggendo, ad esempio, non è altro che un file (di nome README) all'interno derl repository *come-usare-github*
+* **Issue**: questo è uno degli aspetti principali della *collaborazione* su GitHub: in questa sezione l'autore del documento può inserire dei "commenti" relativi ai vari step del progetto (repository), oppure gli altri utenti possono suggerire delle modifiche
