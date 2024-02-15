@@ -34,7 +34,7 @@ Se ci pensiamo bene, un sistema come questo è veramente potente sotto il profil
 Come tutti i social network che si rispettino, anche su GitHub puoi "seguire" gli utenti. Basta cliccare il tasto **Follow** e gli aggiornamenti relativi alle attività di quell'utente ti compariranno nella tua "home page" o "timeline" per dirla alla Facebook
 Un altra azione importante è la *star* che puoi applicare sui vari *Repository*: in sostanza una volta che ha posto una star su un repository, lo ritroverai tra i "preferiti" sul tuo profilo, per poterlo così raggiungere più facilmente.
 
-Per rimanere aggiornati sugli sviluppi di un Repositori, c'è anche l'opzione **Watch** che in pratica attiva le novifiche.
+Per rimanere aggiornati sugli sviluppi di un Repositori, c'è anche l'opzione **Watch** che in pratica attiva le notifiche.
 
 > fai una prova: in alto a destra, prova a selezionare *watch* o *star* per rimanere aggiornato su questo Repository!
 
